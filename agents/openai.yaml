@@ -1,0 +1,7 @@
+interface:
+  display_name: "毛泽东思想分析法"
+  short_description: "用矛盾分析、调查研究、群众路线和战略战术思维剖析现实问题"
+  default_prompt: "Use $mao-thought-analysis to analyze a concrete problem with Mao Zedong Thought methods: identify forces, classify contradictions, determine the main contradiction, and turn the judgment into strategy, tactics, and organizational action."
+
+policy:
+  allow_implicit_invocation: false
